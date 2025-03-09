@@ -1,3 +1,4 @@
+cat > package.json << 'EOL'
 {
   "name": "midnight-magnolia",
   "version": "1.0.0",
@@ -23,3 +24,4 @@
   },
   "homepage": "https://github.com/Rumi1013/midnight-magnolia#readme"
 }
+EOL
